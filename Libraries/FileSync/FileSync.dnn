@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dotnetnuke type="Package" version="6.0">
+  <packages>
+    <package name="Upendo.Libraries.FileSync" type="Library" version="01.00.00">
+      <friendlyName>FileSync Scheduled Job</friendlyName>
+      <description>
+		<![CDATA[<p>Allows you to synchronize the portals files and folders with the database.</p>]]>
+	  </description>
+      <owner>
+        <name>Upendo</name>
+        <organization>Upendo</organization>
+        <url><![CDATA[<a href="https://upendoventures.com" target="_blank">https://upendoventures.com</a>]]></url>
+        <email><![CDATA[<a href="mailto:solutions@upendoventures.com" target="_blank">solutions@upendoventures.com</a>]]></email>
+      </owner>
+      <license src="License.txt" />
+      <releaseNotes src="ReleaseNotes.txt" />
+      <azureCompatible>True</azureCompatible>
+      <dependencies>
+        <dependency type="CoreVersion">09.01.01</dependency>
+      </dependencies>
+      <components>
+        <component type="ResourceFile">
+          <resourceFiles>
+            <basePath></basePath>
+            <resourceFile>
+              <name>Resources.zip</name>
+            </resourceFile>
+          </resourceFiles>
+        </component>
+      </components>
+    </package>
+  </packages>
+</dotnetnuke>

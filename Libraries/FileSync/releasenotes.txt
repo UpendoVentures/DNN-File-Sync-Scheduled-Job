@@ -1,0 +1,6 @@
+
+<h2>FileSync Libraries Extension for DNN</h2>
+<p>Version 01.00.00</p>
+<ul>
+	<li>Allows you to syncronize the Portals folders with the database in DNN.</li>
+</ul>

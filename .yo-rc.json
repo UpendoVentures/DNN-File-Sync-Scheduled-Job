@@ -1,0 +1,12 @@
+{
+  "generator-upendodnn": {
+    "promptValues": {
+      "dnnHost": "http://dnndev.me",
+      "dnnRoot": "c:\\Work\\ScheduledJob",
+      "companyName": "UpendoVentures",
+      "company": "Upendo",
+      "companyUrl": "https://upendoventures.com",
+      "emailAddy": "solutions@upendoventures.com"
+    }
+  }
+}
