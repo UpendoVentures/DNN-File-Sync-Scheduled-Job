@@ -1,3 +1,5 @@
+Donated to the [DNN Community](https://dnncommunity.org) by [Upendo Ventures](https://upendoventures.com/What/CMS/DNN).
+
 **A Special Note to ALL Developers...**  
 Please do not begin any development until you first read through and understand all of the notes in the README below.  
 
