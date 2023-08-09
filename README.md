@@ -18,6 +18,15 @@ This solution is created and maintained by [Upendo Ventures](https://upendoventu
 
 <hr />  
 
+# Developers Only 🤓  
+
+If you're not a developer, the rest of this README is not going to interest you. 😉  
+
+
+This solution was built using the [Upendo DNN Generator](https://github.com/UpendoVentures/generator-upendodnn#readme).  
+
+<hr />
+
 **A Special Note to ALL Developers...**  
 Please do not begin any development until you first read through and understand all of the notes in the README below.  
 
