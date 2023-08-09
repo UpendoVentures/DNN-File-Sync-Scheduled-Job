@@ -1,4 +1,22 @@
-Donated to the [DNN Community](https://dnncommunity.org) by [Upendo Ventures](https://upendoventures.com/What/CMS/DNN).
+# File Synchronization Scheduled Job for DNN  
+
+This scheduled job allows you to set up a scheduled task in your DNN website to automatically synchronize the user files on your website so that the file management tool(s) you use in DNN are aware of them.  
+
+This is especially useful if your workflow or implementation regularly has files uploaded to the `Portals/**` folder and child folders.  Those files won't appear in any DNN UI, until they're synchronized with the database.  Once set, this scheduled job will do that for you.  
+
+We recommend having this routine only run once a day in most cases.  
+
+<hr />  
+
+## `Sponsors == (typeOf superHuman) Awesome;`  
+
+> Yes, it's not real code. It's just supposed to be fun. :P
+
+This solution is created and maintained by [Upendo Ventures](https://upendoventures.com/What/CMS/DNN) for the [DNN CMS Community](https://dnncommunity.org). Please consider [sponsoring us](https://github.com/sponsors/UpendoVentures) for this and [the many other open-source efforts we do](https://upendoventures.com/What/CMS/DNN/Extensions).  It's a lot.  :)  
+
+- [Sponsor Us](https://github.com/sponsors/UpendoVentures) (we're grateful at any level 🙏🏽)  
+
+<hr />  
 
 **A Special Note to ALL Developers...**  
 Please do not begin any development until you first read through and understand all of the notes in the README below.  
