@@ -1,6 +1,57 @@
+<style>
+	div.uv-install-wrapper h3, div.uv-install-wrapper h4, div.uv-install-wrapper p, div.uv-install-wrapper hr, div.uv-install-wrapper ul { margin-bottom: 0.5em; }
+	div.uv-install-wrapper ul { padding-left: 2em; }
+	.muy-importante { color:red;font-weight:bold; }
+</style>
+<div class="uv-install-wrapper">
+	<h1>FileSync Libraries Extension for DNN</h1>
+	<hr />
+	<div class="dnnClear">
+		<p class="muy-importante">The release notes continue after the Sponsors and Contributors below.</p>
+	
+		<h2>Sponsors</h2>
+		<p>Open-source is not free. We're so GRATEFUL for the following people/organizations for <a href="https://github.com/sponsors/UpendoVentures" target="_blank">sponsoring developers</a> to work on this release!</p>
+		<p>Sponsorship is <em>Powered by GitHub Sponsors</em> and ensures that this project lives and thrives. <a href="https://github.com/sponsors/UpendoVentures" target="_blank">Please consider contributing</a> any amount.</p>
+		<p>THANK YOU to the following rockstars!</p>
+		<ul>
+			<li>Adam Bernstein, <a href="https://practicewise.com/" target="_blank">PracticeWise</a></li>
+			<li><a href="https://github.com/puresystems" target="_blank">PureSystems</a></li>
+			<li>(<i>two private sponsors</i>)</li>
+		</ul>
+	
+		<h2>Contributors</h2>
+		<p>THANK YOU to the following community members for participating in this release!</p>
+		<ul>
+			<li>Will Strohl, <a href="https://upendoventures.com/How/People/Will-Strohl" target="_blank">Upendo Ventures</a></li>
+		</ul>
+	
+		<h2><strong>Release Note Prefixes</strong></h2>
+		<p>The following prefixes are defined as:</p>
+		<ul>
+			<li><strong>SI:</strong> Support Inquiry - This issue was reported by a <a href="https://upendoventures.com/Support" target="_blank">support customer</a> and, as such, was prioritized above all other tasks.</li>
+		</ul>
+		<hr />
 
-<h2>FileSync Libraries Extension for DNN</h2>
-<p>Version 01.00.00</p>
-<ul>
-	<li>Allows you to syncronize the Portals folders with the database in DNN.</li>
-</ul>
+		<h2>Version 01.01.00</h2>
+		<h3>Enhancements</h3>
+		<ul>
+			<li>Updated the minimum DNN version to 10.2 (<a href="https://github.com/UpendoVentures/DNN-File-Sync-Scheduled-Job/issues/22" target="_blank">Issue 22</a>, thanks <a href="https://github.com/WillStrohl" target="_blank">@WillStrohl</a>!)</li>
+		</ul>
+		<h4>Maintenence &amp Bug Fixes</h4>
+		<ul>
+			<li>None at this time.</li>
+		</ul>
+		<hr />
+
+		<h2>Version 01.00.00</h2>
+		<h3>Enhancements</h3>
+		<ul>
+			<li>Allows you to syncronize the Portals folders with the database in DNN.</li>
+		</ul>
+		<h4>Maintenence &amp Bug Fixes</h4>
+		<ul>
+			<li>None in this release</li>
+		</ul>
+
+	<div>
+</div>
